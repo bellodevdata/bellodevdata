@@ -91,9 +91,12 @@ Especializado en la extracción, transformación y carga (ETL), así como en el 
 <h3 align="left">Education</h3>
 <p>- 2009: Engineering - Central University of Venezuela, Venezuela.</p>
 
-<h3 align="left">Education</h3>
-<p>- 2009: Engineering - Central University of Venezuela, Venezuela.</p>
-
+<h3 align="left">Certificates</h3>
+<p>-Data Science Bootcamp | 2025 - 2026</p>
+<p>TripleTen, Latam. Numerical methods, ML for business, ML for text, Computer vision, Unsupervised Learning, SQL.</p>
+<p>- Python para Data Science & Machine Learning | 2025</p>
+<p>Escuela directa - Federico Garay | Udemy</p>
+<p>- HackerRank Certifies: <a href="https://www.hackerrank.com/profile/fernandojbf" target="">https://www.hackerrank.com/profile/fernandojbf</a></p>
 
 <!-- Projects -->
 <h3 align="left">Projects</h3>
