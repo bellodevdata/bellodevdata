@@ -19,9 +19,10 @@ Especializado en la extracción, transformación y carga (ETL), así como en el 
 <table align="center">
 <tr><td>✔Python</td><td>✔Pandas</td><td>✔NumPy</td></tr>
 <tr><td>✔Scikit-Learn</td><td>✔Tensorflow</td><td>✔Keras</td></tr>
-<tr><td>✔Seaborn</td><td>✔Plotly</td><td>✔Matplotlib</td></tr>
+<tr><td>✔Matplotlib</td><td>✔Seaborn</td><td>✔Jupyter</td></tr>
 <tr><td>✔Selenium</td><td>✔BeautifulSoup</td><td>✔Request</td></tr>
-<tr><td>✔SQL</td><td>✔Matlab</td><td>✔Jupyter</td></tr>
+<tr><td>✔PostgreSQL</td><td>✔MySQL</td><td>✔MongoDB</td></tr>
+<tr><td>✔FastAPI</td><td>✔Docker</td><td>✔Matlab</td></tr>
 </table>
 
 <p align="center">
@@ -31,7 +32,10 @@ Especializado en la extracción, transformación y carga (ETL), así como en el 
 <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
 </p>
 
 <!-- ======================= GESTIÓN ======================= -->
@@ -68,20 +72,14 @@ Especializado en la extracción, transformación y carga (ETL), así como en el 
 
 <table align="center">
 <tr><td>✔HTML5</td><td>✔CSS3</td><td>✔JavaScript</td></tr>
-<tr><td>✔React</td><td>✔NextJS</td><td>✔Remix Run</td></tr>
+<tr><td>✔React</td><td>✔NextJS</td><td>✔Json Server</td></tr>
 <tr><td>✔TailwindCSS</td><td>✔Astro</td><td>✔Context API</td></tr>
-<tr><td>✔Json Server</td></tr>
-<tr><td>✔Node</td><td>✔Strapi</td><td>✔Python</td></tr>
-<tr><td>✔Django</td><td>✔Docker</td><td>✔MySQL</td></tr>
-<tr><td>✔PostgreSQL</td><td>✔Selenium</td><td>✔Postman</td></tr>
+<tr><td>✔Node</td><td>✔Strapi</td><td>✔Postman</td></tr>
 </table>
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/>
