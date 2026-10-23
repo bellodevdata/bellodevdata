@@ -50,56 +50,6 @@ Especializado en la extracción, transformación y carga (ETL), así como en el 
 <img src="https://www.dopemarketing.com/hubfs/Monday.com%20CRM%20Logo-1.png" width="40" height="40"/>
 </p>
 
-<!-- ======================= FRONTEND ======================= -->
-
-<h3 align="center">Frontend Development</h3>
-
-<table align="center">
-<tr><td>✔HTML5</td><td>✔CSS3</td><td>✔JavaScript</td></tr>
-<tr><td>✔React</td><td>✔NextJS</td><td>✔Remix Run</td></tr>
-<tr><td>✔TailwindCSS</td><td>✔Astro</td><td>✔Context API</td></tr>
-<tr><td>✔Json Server</td></tr>
-</table>
-
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</p>
-
-<!-- ======================= BACKEND ======================= -->
-
-<h3 align="center">Backend Development</h3>
-
-<table align="center">
-<tr><td>✔Node</td><td>✔Strapi</td><td>✔Python</td></tr>
-<tr><td>✔Django</td><td>✔Docker</td><td>✔MySQL</td></tr>
-<tr><td>✔PostgreSQL</td><td>✔Selenium</td><td>✔Postman</td></tr>
-</table>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</p>
-
-<!-- ======================= TESTING ======================= -->
-
-<h3 align="center">QA / Testing</h3>
-
-<table align="center">
-<tr><td>✔Pytest</td><td>✔Automation</td><td>✔Jest</td></tr>
-<tr><td>✔Selenium</td></tr>
-</table>
-
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40"/>
-</p>
-
 <!-- ======================= SOFT SKILLS ======================= -->
 
 <h3 align="center">Soft Skills</h3>
@@ -111,6 +61,41 @@ Especializado en la extracción, transformación y carga (ETL), así como en el 
 <tr><td>✔Solver</td><td>✔Thinker</td><td>✔Analytic</td></tr>
 <tr><td>✔Planner</td><td>✔Hardworker</td><td>✔Pragmatic</td></tr>
 </table>
+
+<!-- ======================= Other knowledges ======================= -->
+
+<h3 align="center">Other knowledges</h3>
+
+<table align="center">
+<tr><td>✔HTML5</td><td>✔CSS3</td><td>✔JavaScript</td></tr>
+<tr><td>✔React</td><td>✔NextJS</td><td>✔Remix Run</td></tr>
+<tr><td>✔TailwindCSS</td><td>✔Astro</td><td>✔Context API</td></tr>
+<tr><td>✔Json Server</td></tr>
+<tr><td>✔Node</td><td>✔Strapi</td><td>✔Python</td></tr>
+<tr><td>✔Django</td><td>✔Docker</td><td>✔MySQL</td></tr>
+<tr><td>✔PostgreSQL</td><td>✔Selenium</td><td>✔Postman</td></tr>
+</table>
+
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</p>
+
+
+<h3 align="left">Education</h3>
+<p>- 2009: Engineering - Central University of Venezuela, Venezuela.</p>
+
+<h3 align="left">Education</h3>
+<p>- 2009: Engineering - Central University of Venezuela, Venezuela.</p>
+
 
 <!-- Projects -->
 <h3 align="left">Projects</h3>
@@ -349,11 +334,7 @@ Python application that automates downloading audio files and organizing them lo
 </tr>  
 </table>
 
-<h3 align="left">Education</h3>
-<p>- 2009: Engineering - Central University of Venezuela, Venezuela.</p>
 
-<h3 align="left">Education</h3>
-<p>- 2009: Engineering - Central University of Venezuela, Venezuela.</p>
 
 <!-- CONNECT -->
 <h3 align="left">Connect with me:</h3>
