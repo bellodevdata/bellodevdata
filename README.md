@@ -39,9 +39,8 @@ Especializado en la extracción, transformación y carga (ETL), así como en el 
 </p>
 
 <!-- ======================= GESTIÓN ======================= -->
-
+<br>
 <h3 align="center">Project Management</h3>
-
 <table align="center">
 <tr><td>✔Git</td><td>✔Asana</td><td>✔Jira</td></tr>
 <tr><td>✔Monday</td></tr>
@@ -55,9 +54,8 @@ Especializado en la extracción, transformación y carga (ETL), así como en el 
 </p>
 
 <!-- ======================= SOFT SKILLS ======================= -->
-
+<br>
 <h3 align="center">Soft Skills</h3>
-
 <table align="center">
 <tr><td>✔Researcher</td><td>✔Helper</td><td>✔Selfdriven</td></tr>
 <tr><td>✔Team leader</td><td>✔Planner</td><td>✔Forecaster</td></tr>
@@ -67,7 +65,7 @@ Especializado en la extracción, transformación y carga (ETL), así como en el 
 </table>
 
 <!-- ======================= Other knowledges ======================= -->
-
+<br>
 <h3 align="center">Other knowledges</h3>
 
 <table align="center">
@@ -99,6 +97,7 @@ Especializado en la extracción, transformación y carga (ETL), así como en el 
 <p>- HackerRank Certifies: </p>
 <ul><a href="https://www.hackerrank.com/profile/fernandojbf" target="">https://www.hackerrank.com/profile/fernandojbf</a></ul>
 
+<br>
 <!-- Projects -->
 <h3 align="left">Projects</h3>
 <h4>Exploratory Data Analysis & Data Wrangling</h4>
