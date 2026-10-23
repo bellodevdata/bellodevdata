@@ -350,11 +350,10 @@ Python application that automates downloading audio files and organizing them lo
 </table>
 
 <h3 align="left">Education</h3>
-<p>- 2021: PhD in Sciences - Autonomous University of Baja California, Mexico.</p>
-<p>- 2020: MBA - European Postgraduate Institute, Spain.</p>
-<p>- 2015: Master's in Science - CICESE, Mexico.</p>
 <p>- 2009: Engineering - Central University of Venezuela, Venezuela.</p>
 
+<h3 align="left">Education</h3>
+<p>- 2009: Engineering - Central University of Venezuela, Venezuela.</p>
 
 <!-- CONNECT -->
 <h3 align="left">Connect with me:</h3>
